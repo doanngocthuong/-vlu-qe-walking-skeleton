@@ -1,5 +1,5 @@
 function login(user, pass) {
-    return user === "admin" && pass === "123";
+    return user === "admin" && pass === "12345";
 }
 
 if (typeof module !== "undefined") {
